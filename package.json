@@ -1,0 +1,25 @@
+{
+  "name": "typescript_basics",
+  "version": "0.0.1",
+  "description": "A sandbox to practice discover and learn typescript",
+  "main": "src/sandbox.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/JonathanDUFOUR/typescript_basics.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Jonathan DUFOUR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/JonathanDUFOUR/typescript_basics/issues"
+  },
+  "homepage": "https://gitlab.com/JonathanDUFOUR/typescript_basics#readme",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
